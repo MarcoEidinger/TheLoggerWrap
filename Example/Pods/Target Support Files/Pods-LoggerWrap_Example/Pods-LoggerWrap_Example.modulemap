@@ -1,0 +1,6 @@
+framework module Pods_LoggerWrap_Example {
+  umbrella header "Pods-LoggerWrap_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

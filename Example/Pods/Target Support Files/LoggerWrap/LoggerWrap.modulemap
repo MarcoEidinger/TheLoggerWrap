@@ -1,0 +1,6 @@
+framework module LoggerWrap {
+  umbrella header "LoggerWrap-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - LoggerWrap (0.1.0)
+
+DEPENDENCIES:
+  - LoggerWrap (from `../`)
+
+EXTERNAL SOURCES:
+  LoggerWrap:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LoggerWrap: 3c26c998c9a1b66af98d79afef25c952fbb6951f
+
+PODFILE CHECKSUM: 61d4d2b8a3411c021abe4c0e11b605b215630125
+
+COCOAPODS: 1.10.1
