@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LoggerWrap_Example' do
+  pod 'LoggerWrap', :path => '../'
+
+  target 'LoggerWrap_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
